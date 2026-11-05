@@ -1,0 +1,7 @@
+node_modules/
+12.2.2/
+npm
+.env
+.env.*
+!.env.example
+.DS_Store
